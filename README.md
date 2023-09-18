@@ -1,6 +1,5 @@
 # registerClients ![notes](https://github.com/DarielEGM/registerClients/assets/123778387/efd92401-5a10-48d6-a071-4ea1c93cad83)
 
-
 This project was built with JavaScript and HTML.
 
 The purpose of the application is to record the arrival time and age of the customers who arrive at a party. The age is recorded on the website.
